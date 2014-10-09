@@ -1,0 +1,133 @@
+h1, h2, h3{
+	font-family: 'Roboto Slab', serif;
+}
+
+header h1 {
+	font-size: 1.25em;
+	color: #3e4499;
+}
+header h2{
+	font-size: 1em;
+	color:#000;
+	font-weight: bold;
+	margin-bottom:1em;
+}
+header hr{
+		margin:0.6em;
+}
+
+.logo-border{
+  border-width: 2px;
+}
+
+header pre{
+	font-family: inherit;
+	color: #bf0000;
+}
+header{
+	padding: 0em 0 1em 0;
+}
+
+.contain-to-grid {
+	margin-bottom:1em;
+/*	background:#dcdded;
+*/}
+
+
+
+.top-bar{
+	height:3rem;
+	background:#243339;
+}
+.top-bar-section li:not(.has-form) a:not(.button){
+	line-height:3rem;
+	background:#243339;
+	font-size:1em;
+/*	color:#3e4499;
+*/	font-family: 'Roboto Slab', serif;
+}
+ .top-bar-section .dropdown li:not(.has-form):not(.active) > a:not(.button) {
+/*    color: #ccc;
+    background: #fff; 
+*/}
+.top-bar-section .dropdown li:not(.has-form):not(.active):hover > a:not(.button) {
+/*    color: #fff;
+    background: #ccc; 
+*/}
+.top-bar-section li:not(.has-form) a:not(.button):hover {
+/*    color: #ccc;
+    background: #fff; 
+*/}
+.top-bar-section li.active:not(.has-form) a:not(.button) {
+    padding: 0 15px;
+    line-height: 45px;
+/*    color: white;
+    background: #ccc; 
+*/}
+.top-bar-section li.active:not(.has-form) a:not(.button):hover {
+/*    background: #ddd;
+    color: white; 
+*/}
+.top-bar-section .divider,
+.top-bar-section [role="separator"] {
+/*  border-bottom: solid 1px #fff;
+  border-top: solid 1px #ccc;
+*/  clear: both;
+  width: 100%;
+}
+@media only screen and (min-width: 58.75em) {
+.top-bar-section > ul > .divider, .top-bar-section > ul > [role="separator"] {
+border-bottom: none;
+border-top: none;
+/*border-right: solid 1px #fff;
+border-left: solid 1px #ccc;
+*/clear: none;
+height: 3rem;
+width: 0px;
+}
+
+.top-bar-section .right{
+	padding-right:1em;
+}
+
+
+
+.sidebar{
+	background: #fafafa;
+}
+
+.side-nav a{
+	border-bottom: 1px dotted rgba(0,0,0,.2);
+	font-size: 1.15em;
+}
+
+footer {
+	padding-top: 2em;
+}
+
+.student {
+  margin-left: 25px;
+  margin-bottom: 25px;
+}
+.student .photo {
+  background-color: #ccc;
+  border-radius: 100px;
+  width: 70px;
+  height: 70px;
+  float: left;
+  margin-right: 15px;
+}
+.student p {
+  position: relative;
+  top: 5px;
+}
+.student p:nth-child(2) {
+  font-size: 16px;
+  font-weight: 500;
+  margin-bottom: 0;
+}
+.student p:nth-child(3) {
+  font-size: 14px;
+  font-weight: 400;
+  color: #777;
+}      
