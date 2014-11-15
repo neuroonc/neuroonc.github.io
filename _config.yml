@@ -1,4 +1,6 @@
 name: Отделение опухолей головного и спинного мозга
-pygments: true
+highlighter: pygments 
 relative_permalinks: false
-markdown: rdiscount
+markdown: redcarpet 
+paginate: 4
+paginate_path: /articlesnbooks/page:num

@@ -4,19 +4,19 @@ title:  "клинические наблюдения"
 categories: коллегам
 permalink: /collegues/presentation/
 ---
-<script src="/js/vendor/jquery.js"></script>
+<!-- <script src="/js/vendor/jquery.js"></script>
 <script src="/js/foundation/foundation.js"></script>
 <script src="/js/foundation/foundation.magellan.js"></script>
-
+ -->
 ### Интересные клинические наблюдения
 
-<div data-magellan-expedition="fixed"> 
-	<ul class="sub-nav"> 
-		<li data-magellan-arrival="case1"><a href="#case1">Клиническое наблюдение лимфангиолейомиоматоза у женщины 34 лет</a></li> 
-		<li data-magellan-arrival="case2"><a href="#case2">Клиническое наблюдение лимфангиолейомиоматоза у женщины 35 лет</a></li>
-		<li data-magellan-arrival="case3"><a href="#case3">Клиническое наблюдение лимфангиолейомиоматоза у женщины 36 лет</a></li> 
-	</ul> 
-</div>
+<!-- <div data-magellan-expedition="fixed">  -->
+<ul class="sub-nav"> 
+	<li data-magellan-arrival="case1"><a href="#case1">Клиническое наблюдение лимфангиолейомиоматоза у женщины 34 лет</a></li> 
+	<li data-magellan-arrival="case2"><a href="#case2">Клиническое наблюдение лимфангиолейомиоматоза у женщины 35 лет</a></li>
+	<li data-magellan-arrival="case3"><a href="#case3">Клиническое наблюдение лимфангиолейомиоматоза у женщины 36 лет</a></li> 
+</ul> 
+<!-- </div> -->
 
 
 <a name="case1"></a>

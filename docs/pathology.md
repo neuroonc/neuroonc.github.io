@@ -1,28 +1,28 @@
 ---
 layout: docs
-title:  "болезни"
+title:  "заболевания"
 categories: пациентам
 permalink: /patients/pathology/
 ---
 
-<script src="/js/vendor/jquery.js"></script>
+<!-- <script src="/js/vendor/jquery.js"></script>
 <script src="/js/foundation/foundation.js"></script>
 <script src="/js/foundation/foundation.magellan.js"></script>
+ -->
+### Заболевания
 
-### Болезни
-
-<div data-magellan-expedition="fixed"> 
-	<ul class="sub-nav"> 
-		<li data-magellan-arrival="ag"><a href="#ag">Аденомы гипофиза</a></li> 
-		<li data-magellan-arrival="glioma"><a href="#glioma">Глиомы</a></li>
-		<li data-magellan-arrival="mts"><a href="#mts">Метастазы рака в головной мозг</a></li>
-		<li data-magellan-arrival="men"><a href="#men">Менингиомы</a></li>
-		<li data-magellan-arrival="vs"><a href="#vs">Невриномы</a></li>
-		<li data-magellan-arrival="scord"><a href="#scord">Опухоли спинного мозга</a></li>
-		<li data-magellan-arrival="cavmal"><a href="#cavmal">Кавернозные ангиомы</a></li>
-		 
-	</ul> 
-</div>
+<!-- <div data-magellan-expedition="fixed">  -->
+<ul class="sub-nav"> 
+	<li data-magellan-arrival="ag"><a href="#ag">Аденомы гипофиза</a></li> 
+	<li data-magellan-arrival="glioma"><a href="#glioma">Глиомы</a></li>
+	<li data-magellan-arrival="mts"><a href="#mts">Метастазы рака в головной мозг</a></li>
+	<li data-magellan-arrival="men"><a href="#men">Менингиомы</a></li>
+	<li data-magellan-arrival="vs"><a href="#vs">Невриномы</a></li>
+	<li data-magellan-arrival="scord"><a href="#scord">Опухоли спинного мозга</a></li>
+	<li data-magellan-arrival="cavmal"><a href="#cavmal">Кавернозные ангиомы</a></li>
+	 
+</ul> 
+<!-- </div> -->
 
 <a name="ag"></a>
 <h4 data-magellan-destination="ag">Аденомы гипофиза</h4>
